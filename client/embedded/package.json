@@ -24,7 +24,7 @@
     "handlebars-brunch": ">= 1.0 < 1.8",
     "javascript-brunch": ">= 1.0 < 1.8",
     "less-brunch": ">= 1.0 < 1.8",
-    "qs": "^2.3.3",
+    "qs": "^6.9.3",
     "stylus-brunch": ">= 1.0 < 1.8",
     "uglify-js-brunch": ">= 1.0 < 1.8"
   },
